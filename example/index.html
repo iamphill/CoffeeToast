@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <script src="../dist/js/CoffeeToast.js"></script>
+</head>
+<body>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var toast = new CoffeeToast("Well done! Task is done!", CoffeeToast.Bottom);
+    
+    setTimeout(function () {
+      toast.show();
+    }, 2000);
+  });
+  </script>
+</body>
+</html>
