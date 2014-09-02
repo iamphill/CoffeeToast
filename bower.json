@@ -1,0 +1,16 @@
+{
+  "name": "coffeetoast",
+  "version": "1.0.0",
+  "homepage": "https://github.com/iamphill/CoffeeToast",
+  "authors": [
+    "Phil Hughes <me@iamphill.com>"
+  ],
+  "description": "Toast made with Coffee!",
+  "main": "dist/js/CoffeeToast.js",
+  "keywords": [
+    "coffee",
+    "toast",
+    "coffeescript"
+  ],
+  "license": "MIT"
+}

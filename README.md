@@ -2,6 +2,12 @@
 
 Everybody likes toast right? Android got it right with the way it was implemented, a simple box positioned at the bottom of the window that would display some content to the user. Yet people of the web still haven't got this right. Until now! This plugins matches the Android implementation to make a nice & clean toast box for some content!
 
+Can be installed through Bower!
+
+```
+bower install coffeetoast
+```
+
 _n.b. Its called **Coffee**Toast because its made with CoffeeScript who'd of thought?!_
 
 ## Usage
